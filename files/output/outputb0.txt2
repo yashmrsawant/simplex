@@ -1,0 +1,18 @@
+ 1.00  0.00  0.00  1.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  1.40 
+ 1.69  1.00  0.00  0.00  1.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  1.96 
+ 2.20  1.69  1.00  0.00  0.00  1.00  0.00  0.00  0.00  0.00  0.00  0.00  2.74 
+C : 
+Basis : 3 4 5 
+Current Objective Value :  0.00
+CMinusZ :Basis : 3 0 5 
+Current Objective Value :  2.55
+CMinusZ :Basis : 3 0 2 
+Current Objective Value :  2.74
+CMinusZ :Basis : 
+X3 = 0.240237, cExtra = 0.000000
+0.240237 
+X0 = 1.159763, cExtra = 2.200000
+1.159763 
+X2 = 0.188521, cExtra = 1.000000
+0.188521 
+Objective Function Value = 2.740000

@@ -1,0 +1,23 @@
+GLPSOL: GLPK LP/MIP Solver, v4.59
+Parameter(s) specified in the command line:
+ --cpxlp ./files/input21.lp -o ./files/output/output21.txt1
+Reading problem data from './files/input21.lp'...
+./files/input21.lp:28: warning: missing final end of line
+24 rows, 24 columns, 300 non-zeros
+28 lines were read
+GLPK Simplex Optimizer, v4.59
+24 rows, 24 columns, 300 non-zeros
+Preprocessing...
+23 rows, 24 columns, 299 non-zeros
+Scaling...
+ A: min|aij| =  1.000e+00  max|aij| =  5.428e+02  ratio =  5.428e+02
+GM: min|aij| =  8.735e-01  max|aij| =  1.145e+00  ratio =  1.311e+00
+EQ: min|aij| =  7.674e-01  max|aij| =  1.000e+00  ratio =  1.303e+00
+Constructing initial basis...
+Size of triangular part is 23
+*     0: obj =  -0.000000000e+00 inf =   0.000e+00 (24)
+*     1: obj =   3.214200000e+03 inf =   0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (88872 bytes)
+Writing basic solution to './files/output/output21.txt1'...
